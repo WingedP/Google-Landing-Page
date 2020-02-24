@@ -1,0 +1,135 @@
+nav {
+    text-align: right;
+    vertical-align: top !important;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-space {
+    margin-right: 10px;
+}       
+
+.nav-text {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.nav-icon {
+    padding-bottom: 5px;
+    color: darkslategrey;
+}
+
+.nav-item:hover {
+    text-decoration: underline;
+}
+
+
+section {
+    text-align: center;
+    margin-top: 140px;
+}
+
+.search-bar {
+    width: 550px;
+    height: 27px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    border: 1px solid lightgray;
+    padding-left: 40px;
+    padding-right: 30px;
+    
+}
+
+input:focus {
+    outline: none;
+    border-radius: 20px;
+    border: 1.5px solid lightskyblue;
+}
+
+.container {
+    position: relative;
+}
+
+.icon-1 {
+    width: 15px;    
+    height: 15px;
+    position: relative;
+    left: 35px;
+    top: 5px;
+   
+}
+
+.icon-2 {
+    width: 21px;
+    height: 21px;
+    position: relative;
+    right: 48px;
+    top: 6px;
+
+}
+
+.button-area {
+    margin-bottom: 20px;
+}
+
+.language {
+    padding-left: 5px;
+    padding-right: 8px;
+}
+
+.google-button {
+    width: 140px;   
+    margin-right: 8px;
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    color: grey;
+}
+
+footer {
+    background-color: lavenderblush;
+    padding-bottom: 8px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-1 {
+    font-size: 16px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    color: grey;
+    border-bottom: 1px solid lightgray;
+}
+
+.footer-2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.footer-item {
+    color: grey;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+.footer-item:hover {
+    text-decoration: underline;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+    padding-right: 70px;
+}
+
+ 
