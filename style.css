@@ -1,3 +1,8 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 nav {
     text-align: right;
     vertical-align: top !important;
@@ -131,5 +136,3 @@ footer {
     float: right;
     padding-right: 70px;
 }
-
- 
