@@ -93,7 +93,13 @@ input:focus {
 
 .language {
     padding-left: 5px;
-    padding-right: 8px;
+    padding-right: 7px;
+    text-decoration: none;
+}
+
+.language:hover {
+    color: indigo;
+    text-decoration: underline;
 }
 
 .google-button {
